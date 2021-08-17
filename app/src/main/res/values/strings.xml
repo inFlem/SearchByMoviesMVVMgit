@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SearchByMoviesMVVM</string>
+    <string name="year">year: </string>
+</resources>
